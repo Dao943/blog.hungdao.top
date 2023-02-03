@@ -350,6 +350,47 @@
       </tags>
   </entry>
   <entry>
+    <title>VisualStudioCode</title>
+    <url>/VisualStudioCode/</url>
+    <content><![CDATA[<img src="https://s3.bmp.ovh/imgs/2023/02/02/58de2be75fdd87a4.png" alt="" style="width:40%" />
+
+ 
+
+<blockquote>
+<p>Visual Studio Code，微软官方编辑器，主要记录安装过程与使用中的问题，如何解决问题的方法</p>
+</blockquote>
+<span id="more"></span>
+
+<blockquote>
+<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2></blockquote>
+<p><code>Visual Studio Code</code>（简称 <code>VS Code</code> ），由 <code>Microsoft</code>（微软）提供，运行于 <code>Mac OS X</code>、<code>Windows </code>和 <code>Linux</code> 之上的，针对于编写现代 <code>Web</code> 和云应用的跨平台源代码编辑器，可在桌面上运行，并且可用于 <code>Windows</code>，<code>macOS</code> 和 <code>Linux</code>。它具有对<code>JavaScript</code>，<code>TypeScript</code>和<code>Node.js</code>的内置支持，并具有丰富的其他语言（例如 <code>C++</code>，<code>C＃</code>，<code>Java</code>，<code>Python</code>，<code>PHP</code>，<code>Go</code>）和运行时（例如 <code>.NET</code>和 <code>Unity</code>）扩展的生态系统</p>
+<blockquote>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2></blockquote>
+<ul>
+<li><a href="https://code.visualstudio.com/Download">官网</a></li>
+</ul>
+<blockquote>
+<h3 id="解决下载速度慢"><a href="#解决下载速度慢" class="headerlink" title="解决下载速度慢"></a>解决下载速度慢</h3></blockquote>
+<blockquote>
+<p>将下载链接 <code>https://</code> 与 <code>/stable</code> 中间字段，替换为：<code>vscode.cdn.azure.cn</code></p>
+<p>示例如下：</p>
+</blockquote>
+<ul>
+<li><p>替换前：https:&#x2F;&#x2F;<code>az764295.vo.msecnd.net</code>&#x2F;stable&#x2F;97dec172d3256f8ca4bfb2143f3f76b503ca0534&#x2F;VSCodeUserSetup-x64-1.74.3.exe</p>
+</li>
+<li><p>替换后：https:&#x2F;&#x2F;<code>vscode.cdn.azure.cn</code>&#x2F;stable&#x2F;97dec172d3256f8ca4bfb2143f3f76b503ca0534&#x2F;VSCodeUserSetup-x64-1.74.3.exe</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Microsoft</category>
+      </categories>
+      <tags>
+        <tag>编辑器</tag>
+        <tag>Visual Studio Code</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Mitsubishi CNC 程序传输</title>
     <url>/NcExplorer/</url>
     <content><![CDATA[<img src="https://s3.bmp.ovh/imgs/2023/02/02/2e0eaebce5e3b7bc.jpg" alt="" style="width:35%" />
@@ -489,47 +530,6 @@
         <tag>Mitsubishi CNC</tag>
         <tag>CNC</tag>
         <tag>程序传输</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VisualStudioCode</title>
-    <url>/VisualStudioCode/</url>
-    <content><![CDATA[<img src="https://s3.bmp.ovh/imgs/2023/02/02/58de2be75fdd87a4.png" alt="" style="width:40%" />
-
- 
-
-<blockquote>
-<p>Visual Studio Code，微软官方编辑器，主要记录安装过程与使用中的问题，如何解决问题的方法</p>
-</blockquote>
-<span id="more"></span>
-
-<blockquote>
-<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2></blockquote>
-<p><code>Visual Studio Code</code>（简称 <code>VS Code</code> ），由 <code>Microsoft</code>（微软）提供，运行于 <code>Mac OS X</code>、<code>Windows </code>和 <code>Linux</code> 之上的，针对于编写现代 <code>Web</code> 和云应用的跨平台源代码编辑器，可在桌面上运行，并且可用于 <code>Windows</code>，<code>macOS</code> 和 <code>Linux</code>。它具有对<code>JavaScript</code>，<code>TypeScript</code>和<code>Node.js</code>的内置支持，并具有丰富的其他语言（例如 <code>C++</code>，<code>C＃</code>，<code>Java</code>，<code>Python</code>，<code>PHP</code>，<code>Go</code>）和运行时（例如 <code>.NET</code>和 <code>Unity</code>）扩展的生态系统</p>
-<blockquote>
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2></blockquote>
-<ul>
-<li><a href="https://code.visualstudio.com/Download">官网</a></li>
-</ul>
-<blockquote>
-<h3 id="解决下载速度慢"><a href="#解决下载速度慢" class="headerlink" title="解决下载速度慢"></a>解决下载速度慢</h3></blockquote>
-<blockquote>
-<p>将下载链接 <code>https://</code> 与 <code>/stable</code> 中间字段，替换为：<code>vscode.cdn.azure.cn</code></p>
-<p>示例如下：</p>
-</blockquote>
-<ul>
-<li><p>替换前：https:&#x2F;&#x2F;<code>az764295.vo.msecnd.net</code>&#x2F;stable&#x2F;97dec172d3256f8ca4bfb2143f3f76b503ca0534&#x2F;VSCodeUserSetup-x64-1.74.3.exe</p>
-</li>
-<li><p>替换后：https:&#x2F;&#x2F;<code>vscode.cdn.azure.cn</code>&#x2F;stable&#x2F;97dec172d3256f8ca4bfb2143f3f76b503ca0534&#x2F;VSCodeUserSetup-x64-1.74.3.exe</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Microsoft</category>
-      </categories>
-      <tags>
-        <tag>编辑器</tag>
-        <tag>Visual Studio Code</tag>
       </tags>
   </entry>
 </search>
